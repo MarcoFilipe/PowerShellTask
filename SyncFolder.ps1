@@ -1,4 +1,4 @@
-﻿param (
+param (
     [string]$SourceFolder,     # Path to the source folder
     [string]$ReplicaFolder,    # Path to the replica folder
     [string]$LogFilePath       # Path to the log file
