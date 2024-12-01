@@ -1,5 +1,5 @@
 # PowerShellTask
-One way folder sync
+One way folder sync task
 
 How to run:
 
